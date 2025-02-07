@@ -28,3 +28,11 @@ const myFunction =function()
  console.log(typeof scoreValue); // number
 
 //  node .\.devcontainer\DT-summary    
+// node .\.devcontainer\01_basics\4.js
+
+
+//   ++++++++++++++++++++++++++++++++++
+
+// stack (primitive) , heap (non-primitive ,refrence)
+
+let myName = "sneha"
